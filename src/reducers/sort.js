@@ -1,0 +1,16 @@
+import * as types from './../constants/ActionTypes';
+var initialState={
+    by:'',
+    value:1
+};
+
+var myReducer=(state=initialState,action)=>{
+    switch(action.type){
+        case types.SORT:{
+            console.log(action);
+            return action.sort;
+        }
+    }
+    return {...state};
+}
+export default myReducer;
