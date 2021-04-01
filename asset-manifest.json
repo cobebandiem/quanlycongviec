@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quanlycongviec/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/quanlycongviec/static/js/main.377f170a.chunk.js",
+    "main.js.map": "/quanlycongviec/static/js/main.377f170a.chunk.js.map",
+    "runtime-main.js": "/quanlycongviec/static/js/runtime-main.43dc3719.js",
+    "runtime-main.js.map": "/quanlycongviec/static/js/runtime-main.43dc3719.js.map",
+    "static/js/2.c623768f.chunk.js": "/quanlycongviec/static/js/2.c623768f.chunk.js",
+    "static/js/2.c623768f.chunk.js.map": "/quanlycongviec/static/js/2.c623768f.chunk.js.map",
+    "static/js/3.a8249e9e.chunk.js": "/quanlycongviec/static/js/3.a8249e9e.chunk.js",
+    "static/js/3.a8249e9e.chunk.js.map": "/quanlycongviec/static/js/3.a8249e9e.chunk.js.map",
+    "index.html": "/quanlycongviec/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/quanlycongviec/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c623768f.chunk.js.LICENSE.txt": "/quanlycongviec/static/js/2.c623768f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43dc3719.js",
+    "static/js/2.c623768f.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.377f170a.chunk.js"
+  ]
+}
